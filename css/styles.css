@@ -670,3 +670,12 @@
 .portfolio-item-link:focus .portfolio-app-paragraph {
     transform: translateY(0%);
 }
+.modal-box-paragraph {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
+    margin-bottom: 16px;
+}
