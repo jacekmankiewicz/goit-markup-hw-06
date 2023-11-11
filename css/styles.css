@@ -799,12 +799,12 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    margin-left: 120px;
+    margin-left: 80px;
 }
 .footer-form {
     display: flex;
     gap: 24px;
-    margin-left: 120px;
+    margin-left: 80px;
 }
 .footer-input {
     width: 264px;
