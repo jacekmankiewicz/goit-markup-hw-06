@@ -723,6 +723,3 @@
 .modal-box-name-input:focus + .modal-box-name-svg {
     fill: #4D5AE5;
 }
-.modal-box-name-input:focus + .modal-box-phone-svg {
-    fill: #4D5AE5;
-}
