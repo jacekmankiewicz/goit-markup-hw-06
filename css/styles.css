@@ -802,6 +802,7 @@
 }
 .footer-form {
     display: flex;
+    gap: 24px;
 }
 .footer-input {
     width: 264px;
