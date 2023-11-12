@@ -768,7 +768,7 @@
     margin-right: 8px;
     fill: transparent;
 }
-.checkbox-input:checked + .checkbox-label span {
+.checkbox-input:checked + .checkbox-label .checkbox-span {
     background-color: var(--pressed-state-color);
     border: none;
     fill: var(--light-color);
